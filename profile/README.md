@@ -48,17 +48,162 @@ We do not hide inside research forever.
 
 We do not confuse knowing about technology with being able to create it.
 
-We choose an ambitious question, understand what already exists, identify the important unknowns, build the smallest meaningful experiment, learn what we need, test against reality, and iterate.
-
-**Imagine. Understand. Build. Test. Learn. Rebuild.**
+We start from the capability we wish existed, reduce it to what reality requires, identify the decisive uncertainty, build the smallest experiment that can answer it, and let reality teach us what comes next.
 
 That loop is our curriculum.
+
+## THE OUTERFORM METHOD
+
+> **IMAGINE → REDUCE → ATTACK → BUILD → DISCOVER**
+
+### IMAGINE
+
+Start from a capability that feels as if it belongs further in the future.
+
+Do not begin with available tools, current products, or what seems easy.
+
+Ask:
+
+> **What should exist?**
+
+Science fiction, physics, biology, cyber systems, space, robotics, defence, computation, strange natural phenomena, and deliberate absurdity are all legitimate sources of imagination.
+
+Imagination comes before feasibility.
+
+### REDUCE
+
+Strip away inherited assumptions.
+
+Ask what must fundamentally be true for the capability to exist.
+
+Reduce the problem toward physics, information, computation, energy, matter, biology, geometry, causality, and other constraints imposed by reality itself.
+
+Separate:
+
+- what we simply do not know yet;
+- what humanity already knows and we need to learn;
+- what is an engineering limitation;
+- what may be a genuine scientific unknown;
+- what might be a fundamental constraint.
+
+Research enters here only when the problem demands it.
+
+We study the state of the art to understand reality and avoid rediscovering what already exists — not to decide what we are allowed to imagine.
+
+### ATTACK
+
+Find the **crux**.
+
+Ask:
+
+> **What single uncertainty, if resolved, would most change our belief that this capability can be made real?**
+
+Do not attack the entire futuristic system at once.
+
+Attack the bottleneck that matters.
+
+Learn whatever disciplines the crux demands.
+
+The project determines the curriculum.
+
+### BUILD
+
+Construct the smallest real thing capable of answering the question.
+
+It may be:
+
+- a simulation;
+- an algorithm;
+- a circuit;
+- a mechanism;
+- a material sample;
+- a robot;
+- an experiment rig;
+- a biological model;
+- something we do not yet know how to categorize.
+
+The prototype may be crude.
+
+That is acceptable.
+
+The important requirement is that it touches reality and tests the idea.
+
+**Huge vision. Small decisive experiment.**
+
+### DISCOVER
+
+Measure what actually happened.
+
+Let reality disagree with us.
+
+Ask:
+
+- Did the mechanism work?
+- Why?
+- Where did it fail?
+- Which assumption was wrong?
+- Did we discover a more interesting effect?
+- Should we iterate, pivot, abandon the path, or imagine something new?
+
+Failure is information.
+
+Surprise is often more valuable than confirmation.
+
+Then the loop begins again.
+
+**Imagine. Reduce. Attack. Build. Discover.**
+
+This is not a rigid stage-gate process.
+
+It is a recursive invention loop.
+
+## HOW WE LEARN
+
+We do not attempt to become experts in every field before building.
+
+A project exposes its own dependencies.
+
+When reality blocks progress, we identify the missing knowledge, learn it deeply enough to continue, and return to the experiment.
+
+**Build → get blocked → learn → modify → test → repeat.**
+
+Over time, projects force us through mechanics, electronics, control, AI, cybersecurity, physics, biology, materials, mathematics, manufacturing, space systems, or whatever else reality requires.
+
+That is how multidisciplinary capability is built.
+
+The polymath is not the person who studies every discipline in advance.
+
+The polymath is the person who can cross disciplines whenever the problem demands it.
+
+## WHAT A PROJECT IS
+
+A Grand Vision, a project, and an experiment are not the same thing.
+
+**Grand Vision**  
+What future capability should exist?
+
+**Project**  
+What concrete technological capability are we trying to create?
+
+**Crux**  
+What decisive uncertainty stands between the project and reality?
+
+**Experiment**  
+What is the smallest real test that can answer that uncertainty?
+
+The vision can be enormous.
+
+The first experiment should be small enough to run.
+
+## OUR STANDARD
+
+A project should not exist merely because it is technically interesting.
+
+It should contain a path toward a capability that changes what humans, machines, or civilization can do.
 
 We start small, but we do not think small.
 
 A prototype may begin as a crude simulation, an ugly circuit, a hacked-together sensor rig, an imperfect model, or a few hundred lines of code.
-
-That is acceptable.
 
 The first version does not need to be extraordinary.
 
@@ -68,43 +213,13 @@ We think from first principles whenever convention becomes a cage.
 
 "That is how it is normally done" is useful information, not a commandment.
 
-We ask:
-
-- What is fundamentally possible?
-- What does physics require?
-- What is merely an engineering limitation?
-- Which assumptions are inherited rather than necessary?
-- What new capability could exist if one of those assumptions changed?
-
-We study the state of the art so that we do not unknowingly reproduce it.
-
-Then we try to move beyond it.
-
-Outerform Labs is intentionally not built around a single permanent project.
-
-Ideas come first.
-
-Projects are selected because they reveal an important question, attack a meaningful bottleneck, combine fields in an unusual way, or offer a plausible path to a genuinely new capability.
-
-Some ideas will die during research.
-
-Some experiments will fail.
-
-Some projects will teach one important thing and end.
-
-Others may evolve into research programs, inventions, papers, products, companies, or entirely new technological directions.
-
-That is not failure.
-
-That is exploration.
+No background should become a cage.
 
 Cybersecurity remains one of our strongest existing competencies, but it does not define the lab.
 
 It may stand alone as a research domain or intersect with AI, robotics, space, human augmentation, autonomous systems, critical infrastructure, future computation, or technologies that do not yet exist.
 
 The same principle applies to every discipline.
-
-No background should become a cage.
 
 The long-term ambition is larger than building interesting prototypes.
 
