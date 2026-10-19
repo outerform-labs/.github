@@ -2,7 +2,7 @@
 
 > **Unrestricted imagination. Focused execution. Evidence-driven invention.**
 >
-> This is how we organize the work. For the scientific and engineering method used *inside* a project, follow [PROCESS.md](PROCESS.md).
+> This is how we organize the work. For the scientific and engineering method used *inside* a project, follow [PROCESS.md](PROCESS.md). When unsure what science, technology, or research to look for, use [KNOWLEDGE_DISCOVERY.md](KNOWLEDGE_DISCOVERY.md).
 
 ## 1. The north star
 
