@@ -52,6 +52,8 @@ We start from the capability we wish existed, reduce it to what reality requires
 
 That loop is our curriculum.
 
+For our practical working rhythm — one active project, continuous scientific learning, and evidence-driven 30-day cycles — see the [Outerform Labs Operating Strategy](../STRATEGY.md). The detailed invention loop lives in [PROCESS.md](../PROCESS.md).
+
 ## THE OUTERFORM METHOD
 
 > **IMAGINE → REDUCE → ATTACK → BUILD → DISCOVER**
