@@ -6,6 +6,8 @@ This is the reusable invention process for every Outerform Labs project.
 
 For **how to organize projects, learning, weekly work, and 30-day research cycles**, see [STRATEGY.md](STRATEGY.md).
 
+When you don't yet know which disciplines, mechanisms, or questions matter, use [KNOWLEDGE_DISCOVERY.md](KNOWLEDGE_DISCOVERY.md) during REDUCE, ATTACK, and whenever experiments reveal new unknowns.
+
 The method is intentionally simple:
 
 # IMAGINE → REDUCE → ATTACK → BUILD → DISCOVER
