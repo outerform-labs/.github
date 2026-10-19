@@ -2,7 +2,9 @@
 
 > **Build what should not exist yet.**
 
-This is the reusable operating process for every Outerform Labs project.
+This is the reusable invention process for every Outerform Labs project.
+
+For **how to organize projects, learning, weekly work, and 30-day research cycles**, see [STRATEGY.md](STRATEGY.md).
 
 The method is intentionally simple:
 
