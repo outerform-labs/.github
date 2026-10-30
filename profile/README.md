@@ -52,7 +52,7 @@ We start from the capability we wish existed, reduce it to what reality requires
 
 That loop is our curriculum.
 
-For our practical working rhythm — one active project, continuous scientific learning, and evidence-driven 30-day cycles — see the [Outerform Labs Operating Strategy](../STRATEGY.md). The detailed invention loop lives in [PROCESS.md](../PROCESS.md). For researching an idea when the necessary fields and connections are not yet obvious, see [KNOWLEDGE_DISCOVERY.md](../KNOWLEDGE_DISCOVERY.md).
+For practical execution — one primary build, one advanced parallel design, lightweight frontier exploration, and learning driven by real problems — see the [Outerform Labs Operating Strategy](../STRATEGY.md). The invention loop lives in [PROCESS.md](../PROCESS.md). For unfamiliar disciplines, credible references, and AI-assisted learning, see [KNOWLEDGE_DISCOVERY.md](../KNOWLEDGE_DISCOVERY.md).
 
 ## THE OUTERFORM METHOD
 
@@ -176,6 +176,8 @@ That is how multidisciplinary capability is built.
 The polymath is not the person who studies every discipline in advance.
 
 The polymath is the person who can cross disciplines whenever the problem demands it.
+
+We use modern tools, simulation, computation, authoritative scientific sources, and AI as an interactive tutor and critical collaborator — never as substitutes for independent reasoning or experimental verification.
 
 ## WHAT A PROJECT IS
 
