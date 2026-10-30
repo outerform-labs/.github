@@ -192,6 +192,18 @@ desired effect / function
 
 AI can help **discover vocabulary, map functions, propose alternative mechanisms, explain unfamiliar concepts, and identify possible blind spots**. It can also be wrong or confidently invent references. Use its output as a set of leads, never as final evidence.
 
+### Studying from a source with AI
+
+When a new design problem demands unfamiliar knowledge, select an authoritative textbook, paper, datasheet, or official manual and attach an appropriately licensed or accessible copy if useful. Ask AI to:
+
+1. Identify the **specific sections** relevant to the present engineering decision — not an entire syllabus.
+2. Explain the underlying principle, assumptions, equations, and physical meaning, with source references where available.
+3. Give one or two exercises or predictions **for the inventor to solve first**, then review the attempt and explain mistakes.
+4. Apply the result to a model, calculation, simulation, code, design, or measurable experiment.
+5. Separate **source-supported facts**, **inference**, and **unverified hypotheses**, and check cited pages or passages against the actual material.
+
+Store only durable insights, useful source pointers, and test results. If the source is insufficient or AI cannot inspect it reliably, consult a better reference rather than inventing chapter or page citations.
+
 ### Prompt: map my unknown unknowns
 
 ```text
