@@ -14,31 +14,34 @@ We do not choose a permanent specialty. Physics, mathematics, electronics, mecha
 
 We also do not use *feeling like a genius* or *having a breakthrough this month* as measures of progress. We measure understanding, experimental evidence, engineering capability, originality, and demonstrable results. Breakthroughs cannot be scheduled.
 
-## 2. The operating model: three parallel tracks
 
-| Track | Purpose | Operating rule |
+## 2. The operating model: focused execution, unrestricted exploration
+
+| Stream | Purpose | Operating rule |
 | --- | --- | --- |
-| **ACTIVE LAB** | Advance one ambitious invention through research, experiments, and prototypes. | **One primary active project at a time.** |
-| **SCIENTIFIC MASTERY** | Build durable first-principles knowledge and practical engineering skill. | Study one foundational subject in depth while learning additional subjects just in time for the project. |
-| **IDEA VAULT** | Preserve unrestricted imagination and cross-disciplinary exploration. | Capture ideas freely; do not turn every idea into an active commitment. |
+| **PRIMARY BUILD** | Integrate and validate a working physical or software system. | One lead project with priority for hands-on execution. Currently: Autonomous Tracking Turret. |
+| **ADVANCED DESIGN** | Develop a second ambitious invention through research, modeling, architecture, and simulation. | One parallel project, with a clear milestone and bounded effort. Currently: HUMANOID-01. |
+| **FRONTIER EXPLORATION / IDEA VAULT** | Discover opportunities across *any* scientific or technological domain. | Capture ideas freely; pursue at most one lightweight feasibility investigation at a time. |
+| **SCIENTIFIC FOUNDATIONS** | Build transferable intuition in mathematics, physics, scientific method, and computation. | Study consistently; learn other engineering topics just in time. This is learning, not another build project. |
+| **CRITICAL-SYSTEMS SECURITY** | Maintain deep professional expertise in cybersecurity and systems security engineering for critical environments. | A distinct specialization, spanning space, defence, aviation, energy, industry, communications, and other critical infrastructure. Not a limit on what the lab can invent. |
 
-These tracks reinforce each other. The project supplies urgent questions; foundational learning creates deeper intuition; free exploration creates future directions.
+**Two substantial active projects is the default ceiling, not a challenge to fill every slot.** If the available time shrinks, reduce the parallel design effort before sacrificing meaningful progress on the primary build. Adding a third major project requires explicitly pausing, finishing, or reprioritizing existing work.
 
-**Important:** Focus is a rule for execution, not imagination. Nothing prevents us from reading about, sketching, or considering a new field. Only one project gets the main build/research commitment.
+Focus is a rule for execution, **not for imagination**. Any discipline is fair game. The current project mix can change as ideas and evidence evolve.
 
-## 3. Choosing the active project
 
-Start from a capability worth bringing into reality, not from the components on the workbench.
+## 3. Choosing and rotating projects
 
-Choose based on three questions:
+Start from a capability worth creating, not just parts already on the bench. Evaluate ideas by:
 
-1. **Fascination:** Would I genuinely want to investigate this even if its first prototype were crude?
-2. **Significance:** If achieved, would this create a meaningful new capability or address an important limitation?
-3. **Testability:** Can I identify a serious uncertainty that I can investigate with the resources, simulations, calculations, or collaborators available now?
+1. **Fascination:** Will the scientific and engineering questions sustain real interest?
+2. **Significance:** Would the capability matter if demonstrated or improved?
+3. **Testability:** What useful first question can be tested with accessible models, experiments, resources, or collaborators?
+4. **Learning value:** Does the project develop abilities that transfer to harder inventions?
 
-Testability applies to the **first question**, not the finished vision. A decades-long vision can be a valid project if a decisive experiment is reachable today.
+Before promoting a new idea from the vault, decide which active commitment it replaces or what has genuinely become available. Do not switch solely because a new idea sounds more exciting.
 
-If several ideas qualify, select one and give it a real experimental attempt. Put the others in the Idea Vault. Do not repeatedly restart the selection process because a newer idea feels more exciting.
+The *first prototype* need not be an original breakthrough: it may deliberately build core engineering competence. Originality must be assessed against prior work when claiming a new invention.
 
 ## 4. The invention loop
 
@@ -56,58 +59,50 @@ Move back and forth between these activities whenever the evidence demands it. *
 
 The grand vision may require years. The next experiment should be small enough to perform.
 
-## 5. The 30-day research cycle
 
-**One main project; 30-day reviews; no mandatory monthly project switching.**
+## 5. Milestones and evidence-based reviews
 
-A suggested first cycle:
+Use **one manageable engineering milestone at a time**, with a clear question and observable outcome. Design, learn, model, prototype, and test in whichever order best reduces uncertainty. For speculative science, test a decisive feasibility hypothesis *before* designing an elaborate system.
 
-| Period | Primary emphasis | Tangible output |
-| --- | --- | --- |
-| Week 1 | Clarify the vision, review relevant prior work, find the crux, and begin probing it. | A testable question and an initial calculation, observation, or experiment. |
-| Week 2 | Learn the missing theory, model or design the test, and construct a first setup. | A model, design, simulation, or functioning test rig. |
-| Week 3 | Experiment, measure, debug, and challenge the hypothesis. | Recorded measurements and comparison with a prediction or baseline. |
-| Week 4 | Reproduce key results, interpret them, demonstrate what was learned, and review direction. | An evidence summary and one explicit next decision. |
+A useful rhythm is a brief weekly review and a portfolio check approximately every **4–6 weeks**. These are checkpoints, not deadlines for breakthroughs or mandatory project switches.
 
-This is a **rhythm**, not a waterfall schedule. Build on day one if possible; return to research when needed. If the critical experiment disproves the approach on day five, pivot early. If the idea is promising on day 30, keep working on it.
+| Stream | Example milestone output |
+| --- | --- |
+| Primary build | A tested mechanical assembly, integrated subsystem, measured performance, or working prototype |
+| Advanced design | Requirements for the next demonstrator, a simplified model, a trade-off decision, simulation, or validated CAD concept |
+| Frontier exploration | A literature-backed question, feasibility calculation, or small decisive experiment |
 
-At the review, choose:
+At a review, choose **CONTINUE**, **REDESIGN / PIVOT**, **PAUSE**, or **ARCHIVE** based on evidence, interest, and resources. Keep good experimental results, including failures. Avoid resetting the whole operating system whenever one milestone ends.
 
-- **CONTINUE:** Evidence supports another cycle on the same project.
-- **PIVOT:** The capability remains compelling, but the mechanism or crux must change.
-- **ARCHIVE:** The approach is unsupported, the opportunity is weak, or the project no longer deserves active resources. Preserve the learning.
-
-Do not abandon a hard project solely because it exposes an unfamiliar topic. Difficulty is often a signal to learn, not a signal to switch.
 
 ## 6. The weekly rhythm
 
-**Starting experiment:** For the first 12 weeks, aim for about **8–12 focused hours per week**, adjusting to work, health, and available energy.
+Protect meaningful technical work. The primary build receives the largest share of project execution time; advanced design receives a smaller, sustained share. Frontier exploration stays deliberately lightweight.
 
-A useful starting allocation:
+Scientific foundations and the **separate cybersecurity / critical-systems security specialization** continue alongside project work. Adjust the balance to professional responsibilities, energy, project risk, and available equipment; no fixed public timetable is required.
 
-- **60% — Active Lab:** investigate, calculate, design, build, simulate, measure, debug.
-- **30% — Scientific Mastery:** study a foundational subject and solve problems; develop transferable knowledge beyond the immediate prototype.
-- **10% — Idea Vault:** explore speculative ideas, connect fields, and capture future questions without switching projects.
+For each working session:
 
-For a 10-hour week this means roughly **6 hours project work, 3 hours foundational learning, and 1 hour open exploration**. These are trial proportions, not immutable rules. A critical experiment may consume a whole week; an unfamiliar theory may deserve deeper study.
+1. Name the **one technical question or build task**.
+2. Do the calculation, focused study, design, simulation, experiment, or integration work.
+3. Capture the result and **next smallest useful action**.
 
-A practical session is often 60–90 focused minutes. Start with one question, work toward one observable result, and leave a clear next action.
+Review progress for 10–15 minutes each week. Do not spend the whole session reorganizing tools or writing plans.
 
-## 7. How to learn like a polymath
 
-Use **two learning modes in parallel**:
+## 7. Learn like an AI-augmented polymath
 
-**A. Foundational mastery (continuous)**
+**Foundations:** Sustain mathematics, physics, experimental method, and computational reasoning; solve real problems rather than merely consuming explanations.
 
-Maintain one serious subject of independent study at a time. Read rigorous material, derive results, solve problems, and connect theory to physical intuition. Rotate subjects when there is a reason, not from anxiety about everything you do not know.
+**Just-in-time learning:** Let project decisions reveal missing mechanics, electronics, control, biology, security, materials, or other knowledge. Study the *relevant portion* of a credible source, then return to engineering.
 
-**B. Just-in-time learning (project-driven)**
+**AI-assisted study:** Attach legitimately accessible textbooks, papers, datasheets, or documentation to an AI tutor when useful. Ask it to map relevant sections, explain concepts, test understanding, critique assumptions, and generate independent exercises. Prefer citations to actual source passages; verify them. Never confuse a fluent AI answer with evidence or independent competence.
 
-When an experiment exposes a gap, identify the precise principle or skill missing. Consult a textbook, paper, technical manual, or expert; work through the necessary derivation or exercise; then return to the system and test the understanding.
+**Professional depth:** Maintain a separate deep learning pathway in security engineering for critical systems, using architecture, threat modeling, assurance, secure communications, standards, and practical verification. Space and defence are major applications, not exclusive boundaries.
 
-Examples of transferable skills worth accumulating include mathematical modeling, measurement and uncertainty, electronics, CAD, fabrication, controls, software, experimental design, and research literacy. They are **not** a prerequisite checklist to complete before inventing.
+The objective is the ability to **enter a new domain, acquire the necessary understanding, design, predict, and test** — not to finish a universal 35-subject syllabus. Deep mathematics or specialized expertise becomes essential when the invention's physics or novelty truly requires it.
 
-**The rule:** Study deeply enough to explain, predict, design, and test — not merely to recognize terminology. Avoid both endless preparation and shallow trial-and-error without understanding.
+For identifying unfamiliar dependencies, use [KNOWLEDGE_DISCOVERY.md](KNOWLEDGE_DISCOVERY.md).
 
 ## 8. Minimal documentation, maximum evidence
 
@@ -142,23 +137,23 @@ Early experiments may mostly produce level 1. That is valuable. Over time, chall
 
 A crude proof of concept is not automatically a new invention. A new invention is not automatically a breakthrough. A breakthrough is not automatically real-world impact. For promising work, move toward independent validation, comparison with the state of the art, better prototypes, collaborators, publication or protection where appropriate, and eventual deployment.
 
-## 10. The 12-week trial
 
-Try this operating model for **three consecutive 30-day cycles** before redesigning the system again.
+## 10. Review the evidence, not the bureaucracy
 
-- **Cycle 1 — Establish the habit:** Select one compelling idea, attack its crux, and produce a measured result.
-- **Cycle 2 — Deepen or pivot:** Follow the evidence. Stay with the project if it is promising; pivot for a technical reason, not restlessness.
-- **Cycle 3 — Increase independence:** Take on more of the modeling, design, fabrication, or experimental reasoning yourself. Demonstrate what is now possible and review the operating model.
+After several milestones or approximately 4–6 weeks, assess:
 
-The trial can involve **one project across all three cycles**. It is not a quota of three projects.
+- **Capability:** What can now be understood, calculated, designed, or built independently?
+- **Evidence:** What prediction, calculation, or hypothesis was tested — and what did the result show?
+- **Portfolio:** Do the primary build and advanced design both have a concrete next step? Should an idea be promoted, deferred, or retired?
+- **Learning:** Which foundation or targeted reference is now most valuable?
 
-At the end of 12 weeks, judge the strategy by evidence of consistent work, growing independence, actual experiments, and clearer research questions — **not by whether a world-changing invention has appeared**.
+Keep the process stable unless reality reveals a genuine problem with it. A successful review should take minutes, not generate new documents.
 
 ## 11. The next-action rule
 
 When feeling lost, do **not** redesign the manifesto, buy a new stack of books, or browse endlessly for a more spectacular project.
 
-Return to the active project's next question:
+Return to the current project's next question:
 
 1. What am I trying to find out?
 2. What do I currently believe, and why?
@@ -166,13 +161,13 @@ Return to the active project's next question:
 4. What result did I observe?
 5. What is the next question?
 
-If no project is active, choose a fascinating capability, write the short invention brief, and start the first investigation.
+If no project is ready for execution, choose a fascinating capability, write a short invention brief, and start the first investigation.
 
 ---
 
 ## The Outerform commitment
 
-**Imagine without imposed disciplinary boundaries. Focus execution on one active project. Develop scientific foundations continuously. Learn the missing details on demand. Test assumptions against reality. Review evidence every 30 days. Continue what deserves depth; archive what does not.**
+**Imagine without disciplinary boundaries. Concentrate on one primary build and at most one parallel advanced project. Explore widely, study scientific foundations, maintain deep critical-systems security expertise, learn on demand, and test assumptions against reality. Keep records lean and review what the evidence says.**
 
 The ambition is extraordinary technology. The daily job is to ask a better question, perform a better experiment, or build a more capable system.
 
