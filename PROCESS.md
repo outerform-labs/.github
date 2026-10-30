@@ -4,7 +4,7 @@
 
 This is the reusable invention process for every Outerform Labs project.
 
-For **how to organize projects, learning, weekly work, and 30-day research cycles**, see [STRATEGY.md](STRATEGY.md).
+For **how to organize two concurrent projects, learning, and lightweight reviews**, see [STRATEGY.md](STRATEGY.md).
 
 When you don't yet know which disciplines, mechanisms, or questions matter, use [KNOWLEDGE_DISCOVERY.md](KNOWLEDGE_DISCOVERY.md) during REDUCE, ATTACK, and whenever experiments reveal new unknowns.
 
@@ -13,6 +13,10 @@ The method is intentionally simple:
 # IMAGINE → REDUCE → ATTACK → BUILD → DISCOVER
 
 Do not create unnecessary documents for every stage.
+
+**Engineering is part of the loop, not a paperwork phase.** For a working system, establish a concise mission and first demonstrator, a few measurable success criteria, practical constraints, and the crucial interfaces or functions. Sketch alternatives, choose a viable architecture, then do the needed calculations, CAD, electronics, software, simulation, and prototype tests. Trace a requirement to a test when that traceability is actually useful. If the underlying science is uncertain, run a focused feasibility experiment first. Increase rigor for safety-critical, complex, collaborative, or regulated work.
+
+**One milestone at a time.** The inventor makes core technical decisions and learns by working problems independently; AI helps research, explain from trustworthy sources, challenge assumptions, review designs, and handle routine notes. Do not treat AI-generated equations or claims as verified results.
 
 Use this file as the guide.  
 Create a project repository only when a real project has been selected.
